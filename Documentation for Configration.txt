@@ -1,0 +1,7 @@
+Note :
+All devices for the clients have No configuration;
+
+1: Make sure the configure the pc and routers accordingly to the network diagram( hostname, Ip address etc.).
+Remember to configure the gateway of the devices (Pc) and not the switches
+
+3: Configure the statis routers on the routers to enable the devices pc communicate successfully by pinging p2
